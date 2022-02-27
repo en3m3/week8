@@ -1,0 +1,20 @@
+[{
+    "professionalName":"The Place",
+    "base64Image":"https://i2.wp.com/www.bubbleblabber.com/wp-content/uploads/2014/08/bartman.png",
+    "nameLink":{
+        "firstName": "Steve",
+        "url":"url"
+    },
+    "primaryDescription":"primary description",
+    "workDescription1":"work description 1",
+    "workDescription2":"work description 2",
+    "linkTitleText":"link text",
+    "linkedInLink":{
+        "text":"linkedin text",
+        "link":"linked in link"
+    },
+    "githubLink":{
+        "text":"github text",
+        "link":"github link"
+    }
+}]
